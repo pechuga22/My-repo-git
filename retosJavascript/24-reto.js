@@ -1,0 +1,1 @@
+var myStr= "FirstLine\n\t\SecondLine\nThirdLine\n"; // Change this line

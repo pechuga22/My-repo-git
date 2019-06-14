@@ -4,5 +4,5 @@ var lastName = "Turing";
 
 // Only change code below this line
 
-var myFristName ="santiago";
+var myFirstName ="santiago";
 var myLastName ="valle";
